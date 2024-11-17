@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="text_start">Начать</string>
+    <string name="text_registration">Регистрация</string>
+    <string name="hint_password">PASSWORD</string>
+    <string name="hint_name">NAME</string>
+    <string name="text_reg_BTN">Зарегистрироваться</string>
+    <string name="text_start_activity">УСПЕХ!</string>
+</resources>
